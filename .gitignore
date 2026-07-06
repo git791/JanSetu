@@ -42,3 +42,10 @@ Thumbs.db
 # Logs
 *.log
 logs/
+
+# Docs
+JanSetu_PRD.md
+JanSetu_Technical_Design.md
+implementation_plan.md
+task.md
+walkthrough.md
