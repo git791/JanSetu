@@ -1,0 +1,62 @@
+{
+  "ward_04": {
+    "population": 22150,
+    "literacy_rate": 0.74,
+    "vulnerability_index": 0.62,
+    "sc_st_percent": 0.21,
+    "below_poverty_line": 0.28,
+    "female_population_percent": 0.48,
+    "households": 4430,
+    "avg_household_size": 5.0
+  },
+  "ward_07": {
+    "population": 18420,
+    "literacy_rate": 0.71,
+    "vulnerability_index": 0.68,
+    "sc_st_percent": 0.24,
+    "below_poverty_line": 0.31,
+    "female_population_percent": 0.47,
+    "households": 3684,
+    "avg_household_size": 5.0
+  },
+  "ward_11": {
+    "population": 19870,
+    "literacy_rate": 0.78,
+    "vulnerability_index": 0.55,
+    "sc_st_percent": 0.18,
+    "below_poverty_line": 0.24,
+    "female_population_percent": 0.49,
+    "households": 3974,
+    "avg_household_size": 5.0
+  },
+  "ward_15": {
+    "population": 16340,
+    "literacy_rate": 0.69,
+    "vulnerability_index": 0.72,
+    "sc_st_percent": 0.27,
+    "below_poverty_line": 0.35,
+    "female_population_percent": 0.47,
+    "households": 3268,
+    "avg_household_size": 5.0
+  },
+  "ward_18": {
+    "population": 14280,
+    "literacy_rate": 0.65,
+    "vulnerability_index": 0.76,
+    "sc_st_percent": 0.29,
+    "below_poverty_line": 0.38,
+    "female_population_percent": 0.48,
+    "households": 2856,
+    "avg_household_size": 5.0
+  },
+  "ward_22": {
+    "population": 12950,
+    "literacy_rate": 0.62,
+    "vulnerability_index": 0.71,
+    "sc_st_percent": 0.31,
+    "below_poverty_line": 0.36,
+    "female_population_percent": 0.47,
+    "households": 2590,
+    "avg_household_size": 5.0
+  }
+}

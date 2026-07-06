@@ -1,0 +1,98 @@
+[
+  {
+    "school_id": "U09130101001",
+    "name": "Govt Primary School Sigra",
+    "ward_id": "ward_07",
+    "lat": 25.3120,
+    "lng": 82.9847,
+    "enrollment": 612,
+    "seat_capacity": 440,
+    "teacher_count": 8,
+    "building_condition": "poor",
+    "data_year": "2025-26"
+  },
+  {
+    "school_id": "U09130101002",
+    "name": "Govt Upper Primary School Orderly Bazaar",
+    "ward_id": "ward_07",
+    "lat": 25.3198,
+    "lng": 82.9762,
+    "enrollment": 387,
+    "seat_capacity": 320,
+    "teacher_count": 11,
+    "building_condition": "fair",
+    "data_year": "2025-26"
+  },
+  {
+    "school_id": "U09130102003",
+    "name": "Govt Composite School Bhelupur",
+    "ward_id": "ward_11",
+    "lat": 25.2958,
+    "lng": 82.9990,
+    "enrollment": 521,
+    "seat_capacity": 480,
+    "teacher_count": 14,
+    "building_condition": "fair",
+    "data_year": "2025-26"
+  },
+  {
+    "school_id": "U09130102004",
+    "name": "Govt Primary School BTM Layout",
+    "ward_id": "ward_11",
+    "lat": 25.2704,
+    "lng": 82.9956,
+    "enrollment": 298,
+    "seat_capacity": 260,
+    "teacher_count": 7,
+    "building_condition": "good",
+    "data_year": "2025-26"
+  },
+  {
+    "school_id": "U09130103005",
+    "name": "Govt Primary School Nadesar",
+    "ward_id": "ward_15",
+    "lat": 25.3380,
+    "lng": 82.9580,
+    "enrollment": 445,
+    "seat_capacity": 360,
+    "teacher_count": 9,
+    "building_condition": "poor",
+    "data_year": "2025-26"
+  },
+  {
+    "school_id": "U09130103006",
+    "name": "Govt Girls Inter College Chetganj",
+    "ward_id": "ward_15",
+    "lat": 25.3290,
+    "lng": 82.9640,
+    "enrollment": 682,
+    "seat_capacity": 550,
+    "teacher_count": 16,
+    "building_condition": "fair",
+    "data_year": "2025-26"
+  },
+  {
+    "school_id": "U09130104007",
+    "name": "Govt Primary School Paharia",
+    "ward_id": "ward_18",
+    "lat": 25.3520,
+    "lng": 82.9490,
+    "enrollment": 312,
+    "seat_capacity": 280,
+    "teacher_count": 6,
+    "building_condition": "poor",
+    "data_year": "2025-26"
+  },
+  {
+    "school_id": "U09130105008",
+    "name": "Govt Composite School Pandeypur",
+    "ward_id": "ward_22",
+    "lat": 25.3610,
+    "lng": 82.9420,
+    "enrollment": 536,
+    "seat_capacity": 420,
+    "teacher_count": 13,
+    "building_condition": "fair",
+    "data_year": "2025-26"
+  }
+]
